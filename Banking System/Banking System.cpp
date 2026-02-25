@@ -283,7 +283,7 @@ public:
 void Usermenu()
 {
 	cout << "---User Menu---" << "\n";
-	cout << "1. Signin		2. Login" << "\n";
+	cout << "1. Sign in		2. Login" << "\n";
 	cout << "3. Exit." << "\n";
 	cout << "Choice: " << "\n";
 }
@@ -292,7 +292,7 @@ void menu()
 {
 	cout << "---System Menu---" << "\n";
 	cout << "1. Deposit Cash		2. Withdraw Cash" << "\n";
-	cout << "3. Check Balance		4. Transfer Cash" << "\n";
+	cout << "3. Check Balance	4. Transfer Cash" << "\n";
 	cout << "5. Logout" << "\n";
 	cout << "Choice: " << "\n";
 }
